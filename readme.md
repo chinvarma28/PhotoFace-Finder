@@ -1,0 +1,1 @@
+PhotoFace Finder is an intelligent facial recognition system designed to streamline the process of identifying and matching faces from a large collection of photos. The system extracts facial features from each image and stores them as metadata for fast and efficient comparisons.
